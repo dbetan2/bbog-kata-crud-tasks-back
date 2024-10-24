@@ -1,2 +1,4 @@
 node_modules
 coverage
+tasks.sqlite
+coverage
